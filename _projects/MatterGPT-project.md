@@ -13,7 +13,7 @@ people:
 layout: project
 image: /img/projects/xihong.jpg
 last-updated: 2018-07-27
-link:[ https://arxiv.org/abs/2408.07608](https://baike.baidu.com/item/%E8%A5%BF%E8%99%B9%E5%B8%82%E9%A6%96%E5%AF%8C?fromModule=lemma_search-box)
+link:https://baike.baidu.com/item/%E5%AE%8B%E8%8A%B8%E6%A1%A6/15475278?fr=aladdin
 ---
 
 ## 简介 Introduction
