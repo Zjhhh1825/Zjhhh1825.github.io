@@ -1,16 +1,15 @@
 ---
-title: 新型OLED材料的高通量量子化学预测与筛选 Discovery of new organic light-emitting diode (OLED) materials with high-throughput screening
-
+title: 《无问西东》
 notitle: false
 
 description: |
 
 people:
-  - profx
+  - wanglihong
   - chenxi
 
 layout: project
-image: /img/projects/oled.png
+image: /img/projects/wwxd.png
 last-updated: 2020-01-26
 ---
 
